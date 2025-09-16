@@ -1,0 +1,30 @@
+[
+  { "title": "The Office", "year": 2005, "creator": "Greg Daniels", "genre": "Comedy", "poster": "https://m.media-amazon.com/images/I/51NClF6+v6L._AC_.jpg" },
+  { "title": "Money Heist", "year": 2017, "creator": "Álex Pina", "genre": "Crime", "poster": "https://m.media-amazon.com/images/I/71uBfDKP1NL._AC_SY679_.jpg" },
+  { "title": "The Big Bang Theory", "year": 2007, "creator": "Chuck Lorre, Bill Prady", "genre": "Comedy", "poster": "https://m.media-amazon.com/images/I/51N6kIWeS7L._AC_.jpg" },
+  { "title": "Young Sheldon", "year": 2017, "creator": "Chuck Lorre, Steven Molaro", "genre": "Comedy", "poster": "https://m.media-amazon.com/images/I/71m0o4fN2sL._AC_SY679_.jpg" },
+  { "title": "The Summer I Turned Pretty", "year": 2022, "creator": "Jenny Han", "genre": "Romance", "poster": "https://m.media-amazon.com/images/I/81Vot6juNhL._AC_SY679_.jpg" },
+  { "title": "Sherlock", "year": 2010, "creator": "Steven Moffat, Mark Gatiss", "genre": "Crime", "poster": "https://m.media-amazon.com/images/I/71cZ7sFwevL._AC_SY679_.jpg" },
+  { "title": "Lucifer", "year": 2016, "creator": "Tom Kapinos", "genre": "Fantasy", "poster": "https://m.media-amazon.com/images/I/81o1R8NJvKL._AC_SY679_.jpg" },
+  { "title": "Doctor Who", "year": 2005, "creator": "Russell T Davies", "genre": "Sci-Fi", "poster": "https://m.media-amazon.com/images/I/71tqP3lZXVL._AC_SY679_.jpg" },
+  { "title": "Star Trek", "year": 1966, "creator": "Gene Roddenberry", "genre": "Sci-Fi", "poster": "https://m.media-amazon.com/images/I/81k8h+qfYGL._AC_SY679_.jpg" },
+  { "title": "Breaking Bad", "year": 2008, "creator": "Vince Gilligan", "genre": "Crime", "poster": "https://m.media-amazon.com/images/I/81NqZ5mG5NL._AC_SY679_.jpg" },
+  { "title": "Stranger Things", "year": 2016, "creator": "The Duffer Brothers", "genre": "Sci-Fi", "poster": "https://m.media-amazon.com/images/I/91w3Gj7tG0L._AC_SY679_.jpg" },
+  { "title": "Friends", "year": 1994, "creator": "David Crane, Marta Kauffman", "genre": "Comedy", "poster": "https://m.media-amazon.com/images/I/71sVj0lNq-L._AC_SY679_.jpg" },
+  { "title": "Game of Thrones", "year": 2011, "creator": "David Benioff, D.B. Weiss", "genre": "Fantasy", "poster": "https://m.media-amazon.com/images/I/91tFZ9lhRQL._AC_SY679_.jpg" },
+  { "title": "The Mandalorian", "year": 2019, "creator": "Jon Favreau", "genre": "Sci-Fi", "poster": "https://m.media-amazon.com/images/I/91OTsBttAgL._AC_SY679_.jpg" },
+  { "title": "Westworld", "year": 2016, "creator": "Jonathan Nolan, Lisa Joy", "genre": "Sci-Fi", "poster": "https://m.media-amazon.com/images/I/81FdePdbQlL._AC_SY679_.jpg" },
+  { "title": "The Witcher", "year": 2019, "creator": "Lauren Schmidt Hissrich", "genre": "Fantasy", "poster": "https://m.media-amazon.com/images/I/81xErfC-0xL._AC_SY679_.jpg" },
+  { "title": "Vikings", "year": 2013, "creator": "Michael Hirst", "genre": "Historical", "poster": "https://m.media-amazon.com/images/I/81uWfa9h2NL._AC_SY679_.jpg" },
+  { "title": "The Crown", "year": 2016, "creator": "Peter Morgan", "genre": "Drama", "poster": "https://m.media-amazon.com/images/I/91u-0zYay4L._AC_SY679_.jpg" },
+  { "title": "How I Met Your Mother", "year": 2005, "creator": "Carter Bays, Craig Thomas", "genre": "Comedy", "poster": "https://m.media-amazon.com/images/I/71sH5UoNRbL._AC_SY679_.jpg" },
+  { "title": "Dexter", "year": 2006, "creator": "James Manos Jr.", "genre": "Crime", "poster": "https://m.media-amazon.com/images/I/71UqNZDdjNL._AC_SY679_.jpg" },
+  { "title": "House of Cards", "year": 2013, "creator": "Beau Willimon", "genre": "Drama", "poster": "https://m.media-amazon.com/images/I/81zP0SkVjUL._AC_SY679_.jpg" },
+  { "title": "Peaky Blinders", "year": 2013, "creator": "Steven Knight", "genre": "Crime", "poster": "https://m.media-amazon.com/images/I/71WlF8ur1JL._AC_SY679_.jpg" },
+  { "title": "The Umbrella Academy", "year": 2019, "creator": "Steve Blackman", "genre": "Fantasy", "poster": "https://m.media-amazon.com/images/I/81uK1MI+1nL._AC_SY679_.jpg" },
+  { "title": "Lost", "year": 2004, "creator": "J.J. Abrams, Damon Lindelof", "genre": "Drama", "poster": "https://m.media-amazon.com/images/I/81V7rUB+02L._AC_SY679_.jpg" },
+  { "title": "Supernatural", "year": 2005, "creator": "Eric Kripke", "genre": "Fantasy", "poster": "https://m.media-amazon.com/images/I/71rMtb9PTNL._AC_SY679_.jpg" },
+  { "title": "Black Mirror", "year": 2011, "creator": "Charlie Brooker", "genre": "Sci-Fi", "poster": "https://m.media-amazon.com/images/I/81MCU2H9uBL._AC_SY679_.jpg" }
+]
+
+

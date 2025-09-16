@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JSON-SEARCH-ENGINE</title>
+  <script defer src="script.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gradient-to-r from-purple-100 via-pink-100 to-yellow-100 p-6 min-h-screen">
+  <h1 class="text-4xl font-bold text-center mb-8">📺 JSON-SEARCH-ENGINE</h1>
+  
+  <div class="flex justify-center mb-6">
+    <input id="search" type="text" 
+           placeholder="Search shows by title or creator..." 
+           class="p-3 w-96 border rounded shadow focus:outline-none focus:ring-2 focus:ring-purple-300">
+  </div>
+
+  <div class="flex justify-center mb-8 space-x-4">
+    <select id="genreFilter" class="p-2 border rounded shadow focus:outline-none focus:ring-2 focus:ring-purple-300">
+      <option value="">All Genres</option>
+    </select>
+    <select id="sortBy" class="p-2 border rounded shadow focus:outline-none focus:ring-2 focus:ring-purple-300">
+      <option value="title">Sort by Title</option>
+      <option value="year">Sort by Year</option>
+    </select>
+  </div>
+
+  <div id="results" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4">
+    <!-- Show cards will appear here -->
+  </div>
+</body>
+</html>
+
+
